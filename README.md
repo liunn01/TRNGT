@@ -1,3 +1,2 @@
-# TRNGT
-#vLLM测试脚本
+# Rtx-Gpu-test目录
 
